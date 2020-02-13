@@ -1,6 +1,6 @@
 {
   "name": "types-phoneno-timezone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module to get country details from contact number",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
