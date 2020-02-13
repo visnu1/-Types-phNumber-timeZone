@@ -9,5 +9,5 @@ Supporting US & Canada Area Codes and all the Country Codes.
  Install with npm:
 
 ```
-$ npm i types-phoneno-timezone
+$ npm i typed-phone-timezones
 ```
