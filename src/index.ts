@@ -1,7 +1,7 @@
 import { usCodes, canadaCodes, countryCodes } from './area_codes';
 
 //Build Local Info object
-export function getLocalInfo(text, options, callback) {
+export function getLocalInfo(text, options?, callback?) {
   if (!text) {
     return;
   }
