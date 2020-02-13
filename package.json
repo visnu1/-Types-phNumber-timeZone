@@ -1,0 +1,33 @@
+{
+  "name": "types-phoneno-timezone",
+  "version": "1.0.0",
+  "description": "module to get country details from contact number",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visnu1/Types-phoneNo-timeZone.git"
+  },
+  "keywords": [
+    "Timezone",
+    "phoneNumber"
+  ],
+  "author": "visnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visnu1/Types-phoneNo-timeZone/issues"
+  },
+  "homepage": "https://github.com/visnu1/Types-phoneNo-timeZone#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "tslint": "^6.0.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.7.5"
+  }
+}
