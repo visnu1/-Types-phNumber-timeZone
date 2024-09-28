@@ -11,3 +11,7 @@ Supporting US & Canada Area Codes and all the Country Codes.
 ```
 $ npm i typed-phone-timezones
 ```
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
