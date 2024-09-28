@@ -1,8 +1,17 @@
-# timeZone.js
+# Local Information Processing Library
 
-timeZone.js is a  Javascript library that helps to get current time and location data for phone number, area code, or country code.
+## Overview
 
-Supporting US & Canada Area Codes and all the Country Codes.
+This project is a TypeScript library designed to process and standardize local information, specifically focused on determining area or country details from input text. It includes functionalities like:
+
+- Standardizing phone codes and text input.
+- Validating options for processing local information.
+- Detecting whether input text is an area code or country code.
+- Adding specific location and country information.
+- Handling U.S. and Canadian regions differently.
+
+The main aim of this library is to provide a flexible and type-safe way to determine geographical data, making it particularly useful for applications dealing with phone numbers, country identification, or geographical zoning.
+
 
 ## Getting Started
 
